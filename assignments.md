@@ -1,5 +1,6 @@
 ---
-layout: page
+<!--layout: page-->
+layout: default
 title: Assignments
 permalink: /assignments/
 order: 3

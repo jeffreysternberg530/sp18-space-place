@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: History and Trump
+title: Digital Space and Place
 email: c.blevins@northeastern.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Course website for HIST 1200/1201: History and Trump. Northeastern University, Fall 2017
+  Northeastern University, Spring 2018
 baseurl: "/sp18-space-place" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site
 #twitter_username: historying
@@ -34,7 +34,7 @@ officehours: "By Appointment"
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed

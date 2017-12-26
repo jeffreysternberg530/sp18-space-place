@@ -1,5 +1,6 @@
 ---
-layout: page
+<!--layout: page-->
+layout: default
 title: Policies
 permalink: /policies/
 order: 2
@@ -15,4 +16,4 @@ Students with documented learning disabilities will receive reasonable accommoda
 
 **Academic Integrity**
 
-All students are responsible for understanding and complying with Northeastern University’s policy on Academic Integrity. Cheating or plagiarism of any kind will not be tolerated and will be immediately referred to the Office of Student Council and Conflict Resolution, For more details, see <http://www.northeastern.edu/osccr/academic-integrity-policy/>.
+All students are responsible for understanding and complying with Northeastern University’s policy on Academic Integrity. Cheating or plagiarism of any kind will not be tolerated and will be immediately referred to the Office of Student Council and Conflict Resolution. For more details, see <http://www.northeastern.edu/osccr/academic-integrity-policy/>.
