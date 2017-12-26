@@ -22,20 +22,20 @@ url: "localhost:4000" # the base hostname & protocol for your site
 #twitter_username: historying
 #github_username:  cblevins
 university: Northeastern University
-course_number: "HIST 1200/1201"
-semester: "Fall 2017"
-room: "456 Ryder Hall"
-meetingtime: "Mon/Wed 2:50-4:30pm"
+course_number: "HIST 7219"
+semester: "Spring 2018"
+room: "Behrakis Health Sciences Center 210"
+meetingtime: "Mon/Wed 4:30pm-7:00pm"
 
 instructor: Cameron Blevins
 email: c.blevins@northeastern.edu
 office: "237 Meserve Hall"
-officehours: "Wed. 4:45-5:45pm, and by appointment"
+officehours: "By Appointment"
 
 # Build settings
 markdown: kramdown
 theme: minima
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
