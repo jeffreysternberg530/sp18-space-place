@@ -11,9 +11,13 @@ order: 2
 
 Assessment will be tailored to fit each student's needs. At the beginning of the semester, you will work with me to define: a) your individual learning goals for the course, and b) your strategy for how to achieve those goals. During the semester I will be giving you qualitative feedback on how you're progressing towards those goals in terms of assignments, activities, and contributions to the class. You will have opportunities to change paths during the course of the semester depending on how your interests develop. Finally, at the end of the semester you will be evaluating and reflecting on your work during the semester. Different students will have different learning goals and pathways towards those goals. Although I will be giving you a final grade, I will not be using standardized criteria for determining that grade. In short, I don't want you to ask "What do I need to do to get a good grade?" and instead ask "What do I want to get out of this class and how will I accomplish that?"
 
+**Office Hours**
+
+My office is located in Meserve Hall Room 237. Given the variability of student schedules, I will not be holding weekly office hours at a set time. Please email me to set up a time to meet that works for both of us.
+
 **Computers**
 
-Given that this is a digital humanities course, we will be using a variety of software and applications both inside and outside of the classroom. Please bring a laptop to class - if you do not have access to one, look into borrowing one from the library [different options](https://www.northeastern.edu/its/services/tech-support/classrooms/equipment-checkout/) or contacting me to make alternative arrangements.
+Given that this is a digital humanities course, we will be using a variety of software and applications both inside and outside of the classroom. Please bring a laptop to class - if you do not have access to one, look into borrowing one from the library's [different options](https://www.northeastern.edu/its/services/tech-support/classrooms/equipment-checkout/) or contact me to make alternative arrangements.
 
 **Students with Disabilities**
 

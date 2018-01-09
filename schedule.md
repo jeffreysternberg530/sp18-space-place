@@ -46,7 +46,7 @@ order: 4
 **3/21: Urban Space | Walking Tours**
 - Michel de Certeau, *The Practice of Everyday Life* (Chapter 7: Walking the City)
 
-**3/28: Race and Space | Exhibit Design**
+**3/28: Race and Space | Online Exhibits**
 - Rashad Shabazz, *Spatializing Blackness: Architectures of Confinement and Black Masculinity in Chicago* (selections)
 - Robert Wyeneth, "The Architecture of Racial Segregation: The Challenges of Preserving the Problematical Past”
 
