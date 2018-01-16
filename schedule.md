@@ -9,7 +9,7 @@ order: 4
 
 **1/10: Introduction**
 
-**1/17: Mapping I | Map Design**
+**1/17: Mapping I | [Map Design]({{site.baseurl}}/in-class/week-2-map-design)**
 - J. B. Harley, “Deconstructing the Map"
 - Barbara Mundy, "Mapping the Aztec Capital: The 1524 Nuremberg Map of Tenochtitlan, Its Sources and Meanings"
 - Susan Mattern, [Gaps in the Map: Why We're Mapping Everything](http://wordsinspace.net/shannon/2015/09/18/gaps-in-the-map-why-were-mapping-everything-and-why-not-everything-can-or-should-be-mapped/)
