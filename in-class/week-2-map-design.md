@@ -1,6 +1,6 @@
-### January 17th: Map Design
+## January 17th: Map Design
 
-## Part I. Introduction to the Data
+### Part I. Introduction to the Data
 
 We're going to be learning how to design maps using Carto, a fairly lightweight and flexible web mapping service. To do so, we'll be using municipal data released by the City of Boston to play around with different ways of changing the appearance of that data. The purpose of this exercise is less analytical, and more getting familiar with things like symbology, color, etc. and how to manipulate those features using text-based programming rather than a purely visual interface.
 
@@ -18,7 +18,7 @@ You have two options for getting this data into Carto. You can download these da
 
 *Note*: the Code Enforcement Violations is a large file encompassing several hundred thousand data points. I've filtered this down to just violations that were recorded in 2017. **You can connect to this dataset directly through Carto: [https://cblevins.carto.com/dataset/cepviolations_2017](https://cblevins.carto.com/dataset/cepviolations_2017)**
 
-## Part II. Changing the Layout (Basic)
+### Part II. Changing the Layout (Basic)
 
 Create a new map in Carto and add the three datasets as layers. Play around with the options in the different layers to change their appearance. Some things to try:
 
@@ -30,7 +30,7 @@ Create a new map in Carto and add the three datasets as layers. Play around with
 
 - Add a Pop-up to the Code Enforcement layer so that you can see a description of the violation when you click on one of the points.
 
-## Part III. Changing the Layout (Advanced) 
+### Part III. Changing the Layout (Advanced) 
 
 Now we'll start changing the layout of the map using CartoCSS, Carto's underlying language for changing the layout and appearance of maps. For those of you familiar with CSS, it is a related language that follows some of the same syntax, but it is not identical. CartoCSS allows you to change the map using a stylesheet syntax. It's easiest to understand by modifying existing code. 
 
