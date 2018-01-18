@@ -20,7 +20,7 @@ You have two options for getting this data into Carto. You can download these da
 
 ### Part II. Changing the Layout (Basic)
 
-Create a new map in Carto and add the three datasets as layers. Play around with the options in the different layers to change their appearance. Some things to try:
+Create a new map in Carto and add the two datasets as layers. Play around with the options in the different layers to change their appearance. Some things to try:
 
 - Select a Basemap option that it has less text labelling.
 
@@ -45,7 +45,7 @@ To start, select the Code Enforcement layer and switch from "Values" to "CartoCS
   marker-line-width: 0.5;
   marker-line-color: #FFFFFF;
   marker-line-opacity: 0.5;
-  [description='Improper storage trash: res']{
+  [descriptio='Improper storage trash: res']{
     marker-fill:#0008ff;
   }
   [stno='62'][street='Phillips']{
