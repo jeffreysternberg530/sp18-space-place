@@ -13,7 +13,7 @@ Assessment will be tailored to fit each student's needs. At the beginning of the
 
 **Office Hours**
 
-My office is located in Meserve Hall Room 237. Given the variability of student schedules, I will not be holding weekly office hours at a set time. Please email me to set up a time to meet that works for both of us.
+My office is located in Meserve Hall Room 237, with weekly office hours on Tuesdays from 1:00-2:30PM. Given the variability of student schedules, I will not be holding weekly office hours at a set time. Please email me to set up a time to meet that works for both of us.
 
 **Computers**
 
