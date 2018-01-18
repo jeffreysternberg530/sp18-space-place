@@ -15,7 +15,7 @@ order: 4
 - Shannon Mattern, [Gaps in the Map: Why We're Mapping Everything](http://wordsinspace.net/shannon/2015/09/18/gaps-in-the-map-why-were-mapping-everything-and-why-not-everything-can-or-should-be-mapped/)
 
 **1/24: Mapping II | Data Visualization**
-- Alberto Cairo, *The Functional Art* (Chapters 1, 2)
+- Alberto Cairo, *The Functional Art* (Introduction, Ch. 1, Ch. 2)
 - Anne Kelly Knowles, Levi Westerveld, and Laura Strom, "Inductive Visualization: A Humanistic Alternative to GIS"
 - Andrew Wiseman, ["When Maps Lie"](https://www.citylab.com/design/2015/06/when-maps-lie/396761/)
 
