@@ -19,6 +19,10 @@ My office is located in Meserve Hall Room 237, with weekly office hours on Tuesd
 
 Given that this is a digital humanities course, we will be using a variety of software and applications both inside and outside of the classroom. Please bring a laptop to class - if you do not have access to one, look into borrowing one from the library's [different options](https://www.northeastern.edu/its/services/tech-support/classrooms/equipment-checkout/) or contact me to make alternative arrangements.
 
+**Slack Workspace**
+
+As we decided during our second week, we will be using a Slack workspace: <https://sp18-space-place.slack.com/> for announcements, communications, discussion questions, readings, etc.
+
 **Students with Disabilities**
 
 Students with documented learning disabilities will receive reasonable accommodation in this class. If you have a learning disability, please notify me and also register with Northeastern’s Disability Resource Center (<http://www.northeastern.edu/drc/>). 
