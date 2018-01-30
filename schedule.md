@@ -19,7 +19,7 @@ order: 4
 - Anne Kelly Knowles, Levi Westerveld, and Laura Strom, "Inductive Visualization: A Humanistic Alternative to GIS"
 - Andrew Wiseman, ["When Maps Lie"](https://www.citylab.com/design/2015/06/when-maps-lie/396761/)
 
-**1/31: Space I | Geospatial Analysis**
+**1/31: Space I | [Geospatial Analysis]({{site.baseurl}}/in-class/week-4-geospatial-analysis)**
 - Doreen Massey, *For Space*, pp. 1-30.
 - George Chauncey, *Gay New York: Gender, Urban Culture, and the Making of the Gay Male World, 1890-1940* (Chapter 1, 7, 8)
 
