@@ -25,7 +25,7 @@ order: 4
 
 *Discussion leaders: Kara & Megan W.*
 
-**2/7: Space II | Spatial Arguments**
+**2/7: Space II | [Spatial Arguments]({{site.baseurl}}/in-class/week-5-spatial-arguments)**
 - Henri Lefebvre, *The Production of Space* (selections)
 - Lauren Benton, *A Search for Sovereignty: Law and Geography in European Empires, 1400-1900* (First read Chapter 1: Anomalies of Empire, then choose ONE of Chapters 2, 3, 4, or 5 to read)
 
