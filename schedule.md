@@ -33,7 +33,7 @@ order: 4
 
 **2/14: Place I | 3D Modeling**
 - Tim Cresswell, *Place: A Short Introduction* (Chapter 1: Defining Place,  Chapter 2: The Genealogy of Place)
-- Yi-Fu Tuan, *Space and Place* (Introduction, Chapter 5: Spaciousness and Crowding)
+- Yi-Fu Tuan, *Space and Place* (Chapter 1: Introduction, Chapter 2: Experiential Perspective, Chapter 5: Spaciousness and Crowding)
 
 *Discussion leaders: Caroline & Colleen*
 
