@@ -31,7 +31,7 @@ order: 4
 
 *Discussion leaders: Molly & Jeff*
 
-**2/14: Place I | 3D Modeling**
+**2/14: Place I | [3D Modeling]({{site.baseurl}}/in-class/week-6-3D-modeling)**
 - Tim Cresswell, *Place: A Short Introduction* (Chapter 1: Defining Place,  Chapter 2: The Genealogy of Place)
 - Yi-Fu Tuan, *Space and Place* (Chapter 1: Introduction, Chapter 2: Experiential Perspective, Chapter 5: Spaciousness and Crowding)
 
