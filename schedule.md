@@ -37,7 +37,7 @@ order: 4
 
 *Discussion leaders: Caroline & Colleen*
 
-**2/21: Place II | Gaming/Virtual Reality**
+**2/21: Place II | [Gaming/Virtual Reality]({{site.baseurl}}/in-class/week-7-gaming)**
 - Download and play [Walden, A Game](https://www.waldengame.com/) for a minimum of four hours.
 
 *Discussion leader: Lauren*
