@@ -48,8 +48,8 @@ order: 4
 ~~3/7: No Class (Spring Break)~~
 
 **3/14: National Space | Spatial Data**
-- Thongchai Winichakul, *Siam Mapped* (selections)
-- James Scott, *Seeing like a State* (selections)
+- James Scott, *Seeing like a State* (Introduction, Ch. 1: Nature and Space, Ch. 4: The High Modernist City: An Experiment and a Critique)
+- Thongchai Winichakul, *Siam Mapped* (Preface, Ch. 6: Mapping: A New Technology of Space)
 
 *Discussion leaders: Katie & Lourdes*
 
