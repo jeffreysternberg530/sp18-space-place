@@ -53,8 +53,10 @@ order: 4
 
 *Discussion leaders: Katie & Lourdes*
 
-**3/21: Urban Space | Walking Tours**
-- Michel de Certeau, *The Practice of Everyday Life* (Chapter 7: Walking the City)
+**3/21: Urban Space | Walking Tour: Boston Black Heritage Trail**
+- Michel de Certeau, *The Practice of Everyday Life* (pp. xvii-xx, 34-49, 91-10)
+
+*Reminder: Meet at Cameron's apartment at 5PM*
 
 **3/28: Race and Space | Online Exhibits**
 - Rashad Shabazz, *Spatializing Blackness: Architectures of Confinement and Black Masculinity in Chicago* (selections)
