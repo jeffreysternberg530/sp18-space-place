@@ -53,14 +53,14 @@ order: 4
 
 *Discussion leaders: Katie & Lourdes*
 
-**3/21: Urban Space | Walking Tour: Boston Black Heritage Trail**
+**3/21: Race and Space | Online Exhibits**
+- Rashad Shabazz, *Spatializing Blackness: Architectures of Confinement and Black Masculinity in Chicago* (selections)
+- Robert Wyeneth, "The Architecture of Racial Segregation: The Challenges of Preserving the Problematical Past”
+
+**3/28: Urban Space | Walking Tour: Boston Black Heritage Trail**
 - Michel de Certeau, *The Practice of Everyday Life* (pp. xvii-xx, 34-49, 91-10)
 
 *Reminder: Meet at Cameron's apartment at 5PM*
-
-**3/28: Race and Space | Online Exhibits**
-- Rashad Shabazz, *Spatializing Blackness: Architectures of Confinement and Black Masculinity in Chicago* (selections)
-- Robert Wyeneth, "The Architecture of Racial Segregation: The Challenges of Preserving the Problematical Past”
 
 *Discussion leaders: Megan B. & Danay*
 
