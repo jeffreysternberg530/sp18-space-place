@@ -47,7 +47,7 @@ order: 4
 
 ~~3/7: No Class (Spring Break)~~
 
-**3/14: National Space | Spatial Data**
+**3/14: National Space | [Spatial Data]({{site.baseurl}}/in-class/week-9-spatial-data)**
 - James Scott, *Seeing like a State* (Introduction, Ch. 1: Nature and Space, Ch. 4: The High Modernist City: An Experiment and a Critique)
 - Thongchai Winichakul, *Siam Mapped* (Preface, Ch. 6: Mapping: A New Technology of Space)
 
