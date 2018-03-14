@@ -58,7 +58,7 @@ order: 4
 - Robert Wyeneth, "The Architecture of Racial Segregation: The Challenges of Preserving the Problematical Past”
 
 **3/28: Urban Space | Walking Tour: Boston Black Heritage Trail**
-- Michel de Certeau, *The Practice of Everyday Life* (pp. xvii-xx, 34-49, 91-10)
+- Michel de Certeau, *The Practice of Everyday Life* (pp. xvii-xx, 34-49, 91-110)
 
 *Reminder: Meet at Cameron's apartment at 5PM*
 
