@@ -57,12 +57,12 @@ order: 4
 - Rashad Shabazz, *Spatializing Blackness: Architectures of Confinement and Black Masculinity in Chicago* (selections)
 - Robert Wyeneth, "The Architecture of Racial Segregation: The Challenges of Preserving the Problematical Past”
 
+*Discussion leaders: Megan B. & Danay*
+
 **3/28: Urban Space | Walking Tour: Boston Black Heritage Trail**
 - Michel de Certeau, *The Practice of Everyday Life* (pp. xvii-xx, 34-49, 91-110)
 
 *Reminder: Meet at Cameron's apartment at 5PM*
-
-*Discussion leaders: Megan B. & Danay*
 
 *Note: Sharon Leon will be giving a talk this morning. I would encourage all of you to attend her talk if you can fit it into your schedule.*
 
