@@ -9,7 +9,6 @@ In other words:
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Updated Turing Test concept:<br>A spreadsheet of dates, hand-entered by interns more than a decade ago, featuring such well-known time formats as &quot;1996ish&quot;, &quot;1941/xd01944&quot;, &quot;1955?&quot; and &quot;WWII.&quot;<br>I&#39;m not worried about AI until someone shows me the algorithm that can make sense of this. <a href="https://t.co/IhzofigX2b">pic.twitter.com/IhzofigX2b</a></p>&mdash; Brooke Watson (@brookLYNevery1) <a href="https://twitter.com/brookLYNevery1/status/954368989181902848?ref_src=twsrc%5Etfw">January 19, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
 ### Getting The Data
 
 We'll be using data from Caroline's project that she has generously agreed to share. We're going to be looking at this data in the most common form that data currently takes: the ubiquitous spreadsheet. Although many researchers have moved away from spreadsheet software like Microsoft Excel (and with good reason), it's still far and away the most common format that you'll find spatial data. It also offers a fairly accessible way to record and edit data. For today, we'll be using Google Sheets. Upload the file, make a duplicate version, and rename the new version without any spaces in the file name.  

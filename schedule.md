@@ -54,7 +54,7 @@ order: 4
 *Discussion leaders: Katie & Lourdes*
 
 **3/21: Race and Space | Online Exhibits**
-- Rashad Shabazz, *Spatializing Blackness: Architectures of Confinement and Black Masculinity in Chicago* (selections)
+- Rashad Shabazz, *Spatializing Blackness: Architectures of Confinement and Black Masculinity in Chicago* (Preface, Ch. 3: Carceral interstice Between Home Space and Prison Space)
 - Robert Wyeneth, "The Architecture of Racial Segregation: The Challenges of Preserving the Problematical Past”
 
 *Discussion leaders: Megan B. & Danay*
