@@ -59,8 +59,8 @@ order: 4
 
 *Discussion leaders: Megan B. & Danay*
 
-**3/28: Urban Space | Walking Tour: Boston Black Heritage Trail**
-- Michel de Certeau, *The Practice of Everyday Life* (pp. xvii-xx, 34-49, 91-110)
+**3/28: Urban Space | [Walking Tour: Boston Black Heritage Trail]({{site.baseurl}}/in-class/week-11-walking-tour)**
+- Michel de Certeau, *The Practice of Everyday Life* (Ch. 7: "Walking in the City")
 
 *Reminder: Meet at Cameron's apartment at 5PM*
 
