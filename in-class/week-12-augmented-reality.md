@@ -33,7 +33,7 @@ Log in to your HP Reveal account in a browser and click `Create new aura`. Uploa
 
 Now open up the mobile app and see if you can get your AR experience to load. Does the image appear when you point your camera at the real-world cover of Tuan's *Space and Place*?
 
-### Build an AR "Exhibit"
+### Build an Augmented Reality "Exhibit"
 
 Museums are increasingly turning to AR to engage with visitors. We're going to create an AR experience for our own museum "exhibit": the History Department in Meserve Hall. We're going to pretend that each faculty member's office door is a different museum item. Build an AR experience using at least three `triggers`. Try and experiment with different kinds of overlays. Once everyone has a working "exhibit", follow one other person's account using your HP Reveal mobile app and go through their "exhibit." As you do so, think about: 
 

@@ -54,19 +54,17 @@ order: 4
 *Discussion leaders: Katie & Lourdes*
 
 **3/21: Race and Space | Online Exhibits**
-- Rashad Shabazz, *Spatializing Blackness: Architectures of Confinement and Black Masculinity in Chicago* (Preface, Ch. 3: Carceral interstice Between Home Space and Prison Space)
-- Robert Wyeneth, "The Architecture of Racial Segregation: The Challenges of Preserving the Problematical Past”
+- Rashad Shabazz, *Spatializing Blackness: Architectures of Confinement and Black Masculinity in Chicago* (Preface, Ch. 3: Carceral Interstice Between Home Space and Prison Space)
+- Robert Weyeneth, "The Architecture of Racial Segregation: The Challenges of Preserving the Problematical Past”
 
 *Discussion leaders: Megan B. & Danay*
 
 **3/28: Urban Space | [Walking Tour: Boston Black Heritage Trail]({{site.baseurl}}/in-class/week-11-walking-tour)**
-- Michel de Certeau, *The Practice of Everyday Life* (Ch. 7: "Walking in the City")
+- Michel de Certeau, *The Practice of Everyday Life* (Ch. 7: Walking in the City)
 
 *Reminder: Meet at Cameron's apartment at 5PM*
 
-*Note: Sharon Leon will be giving a talk this morning. I would encourage all of you to attend her talk if you can fit it into your schedule.*
-
-**4/4: Landscapes | Augmented Reality**
+**4/4: Landscapes | Augmented Reality({{site.baseurl}}/in-class/week-12-augmented-reality)**
 - Anne Spirn, *The Language of Landscape* (selections)
 - Teri Rueb and Ernst Karel, ["Fens" sound installation](http://terirueb.net/fens/). Download the app and tour the installation at Back Bay Fens before class.
 
