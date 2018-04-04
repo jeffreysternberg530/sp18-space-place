@@ -64,7 +64,7 @@ order: 4
 
 *Reminder: Meet at Cameron's apartment at 5PM*
 
-**4/4: Landscapes | Augmented Reality({{site.baseurl}}/in-class/week-12-augmented-reality)**
+**4/4: Landscapes | [Augmented Reality]({{site.baseurl}}/in-class/week-12-augmented-reality)**
 - Anne Spirn, *The Language of Landscape* (selections)
 - Teri Rueb and Ernst Karel, ["Fens" sound installation](http://terirueb.net/fens/). Download the app and tour the installation at Back Bay Fens before class.
 
