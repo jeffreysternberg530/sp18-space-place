@@ -17,10 +17,10 @@ title: Social Theory
 email: sternberg.je@husky.neu.edu
 description: > # this means to ignore newlines until "baseurl:"
   Northeastern University, Spring 2019
-baseurl: "/sp18-space-place" # the subpath of your site, e.g. /blog
-url: "https://github.com/jeffreysternberg530" # the base hostname & protocol for your site
-#twitter_username: JeffSternberg
-#github_username:  jeffreysternberg530
+baseurl: "/sp19-social-theory" # the subpath of your site, e.g. /blog
+url: "https://jeffreysternberg530.github.io" # the base hostname & protocol for your site
+twitter_username: JeffSternberg
+github_username:  jeffreysternberg530
 university: Northeastern University
 course_number: "SOCL 2300"
 semester: "Spring 2019"
